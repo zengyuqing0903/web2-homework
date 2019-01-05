@@ -188,7 +188,7 @@ var yi = document.getElementById('yi');
 var er = document.getElementById('er');
 var san = document.getElementById('san');
 var si = document.getElementById('si')
-var img14 = document.getElementById('img14');
+var san2 = document.getElementById('san2');
 yi.onmouseover=function(e){
     yi.style.left = 1150 +'px';
 }
@@ -203,11 +203,11 @@ er.onmouseout=function(e){
 }
 san.onmouseover=function(e){
     san.style.left = 1150 +'px';
-    img14.setAttribute('src','img/erwei.png');
+    san2.setAttribute('src','img/erwei.png');
 }
 san.onmouseout=function(e){
     san.style.left = 1235+'px';
-    img14.setAttribute('src','img/serwei.png');
+    san2.setAttribute('src','img/serwei.png');
 }
 si.onmouseover=function(e){
     si.style.left = 1150 +'px';
