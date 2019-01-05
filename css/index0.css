@@ -302,11 +302,11 @@
 	right: 0px;
 	z-index: 3;
 }
-.img10{
+.yi1{
 	position: absolute;
 	left: -1px;
 }
-.img9{
+.yi2{
 	position: absolute;
 	top: 60px;
 }
@@ -318,7 +318,7 @@
 	right: -120px;
 	z-index: 3;
 }
-.img12{
+.er2{
 	width:100px;
 	height: 140px;
 	background: #ff9260;
@@ -335,12 +335,12 @@
 	right: -120px;
 	z-index: 3;
 }
-.img13{
+.san1{
 	position: absolute;
 	top: 0px;
 	left: 0px;
 }
-#img14{
+#san2{
 	position: absolute;
 	bottom: 5px;
 	left: 8px;
